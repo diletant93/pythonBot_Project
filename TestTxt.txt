@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 Artur 
 напишіть тут своє імья і збережіть (ctrl + s)
+Axmetik
+=======
+Artur
+напишіть тут своє імья і збережіть (ctrl + s)
+YuraShevchuk
+>>>>>>> a21fdb696ace2baa8f13aa178a3ee556b5a026ee
 Axmetik
