@@ -10,3 +10,4 @@ YuraShevchuk
 Axmetik
 
 ще один рядок
+printf("Hello world")
