@@ -8,3 +8,5 @@ Artur
 YuraShevchuk
 >>>>>>> a21fdb696ace2baa8f13aa178a3ee556b5a026ee
 Axmetik
+
+ще один рядок
